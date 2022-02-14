@@ -1,0 +1,50 @@
+.container {
+    margin: auto;
+    text-align:center;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.selection {
+    text-align:left;
+    border: 2px solid black;
+    border-radius:5px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color:mediumseagreen;
+
+}
+
+
+.out {
+    border: 2px solid black;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.temp {
+    font-size: 30px;
+}
+
+.city-name {
+    font-family: sans-serif;
+    color: mediumseagreen;
+}
+
+.weather-condition {
+    font-family: sans-serif;
+    color: mediumseagreen;
+}
+
+.add_city {
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.btn-1 {
+    margin: 5px;
+    border-radius: 5px;
+    color: mediumseagreen;
+}
